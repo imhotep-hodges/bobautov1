@@ -2,5 +2,12 @@ html {
   background-color: black;
 }
 
+header {
+  background-color: black;
+}
 
+.address {
+  color: white;
+  font-size: 24px;
+}
 /*# sourceMappingURL=styles.css.map */
