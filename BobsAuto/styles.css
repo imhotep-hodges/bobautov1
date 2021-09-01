@@ -50,4 +50,20 @@ header {
   padding: 50px 50px;
   margin-left: auto;
 }
+
+#estimates {
+  background-color: #23272b;
+}
+
+#estimates h1 {
+  color: white;
+}
+
+#estimates h3 {
+  color: white;
+}
+
+#estimates p {
+  color: white;
+}
 /*# sourceMappingURL=styles.css.map */
