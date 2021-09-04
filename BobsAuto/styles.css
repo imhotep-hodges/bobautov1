@@ -46,6 +46,12 @@ header {
 }
 
 /* Navbar */
+.navbar {
+  -webkit-box-shadow: 2px 2px 2px #8d8b8b;
+          box-shadow: 2px 2px 2px #8d8b8b;
+  margin-bottom: auto;
+}
+
 .navbar-brand {
   display: none;
 }
