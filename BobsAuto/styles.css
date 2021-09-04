@@ -46,6 +46,38 @@ header {
 }
 
 /* Navbar */
+.navbar-brand {
+  display: none;
+}
+
+@media screen and (max-width: 762px) {
+  .navbar-brand {
+    display: inline;
+  }
+}
+
+.navbar-nav {
+  margin-left: 25%;
+}
+
+@media screen and (max-width: 762px) {
+  .navbar-nav {
+    margin-left: 0%;
+  }
+}
+
+@media screen and (max-width: 762px) {
+  #navlogo {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 762px) {
+  #welcome {
+    padding-top: 0px;
+  }
+}
+
 #section2 {
   padding: 50px 50px;
   margin-left: auto;
