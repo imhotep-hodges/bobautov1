@@ -104,4 +104,16 @@ header {
 #estimates p {
   color: white;
 }
+
+#contactmain {
+  background-color: white;
+}
+
+#contact1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contact2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 /*# sourceMappingURL=styles.css.map */
