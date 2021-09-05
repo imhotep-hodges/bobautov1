@@ -116,4 +116,9 @@ header {
 .contact2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#form1 {
+  background-color: #212529;
+  color: white;
+}
 /*# sourceMappingURL=styles.css.map */
