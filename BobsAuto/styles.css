@@ -105,6 +105,10 @@ header {
   color: white;
 }
 
+.accordion-button {
+  background-color: gray;
+}
+
 #contactmain {
   background-color: white;
 }
