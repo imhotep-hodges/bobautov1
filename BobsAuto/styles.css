@@ -109,6 +109,10 @@ header {
   background-color: gray;
 }
 
+.reviewlink a {
+  font-size: 1.9rem;
+}
+
 #contactmain {
   background-color: white;
 }
