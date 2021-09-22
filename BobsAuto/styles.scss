@@ -5,7 +5,18 @@ html {
 
 body {
   background-color: #23272b;
+
 }
+
+header {
+  background-color: #212529;
+}
+
+.address {
+  color: white;
+  font-size: 24px;
+}
+
 
 /*------/ Back to top button /------*/
 .back-to-top {
@@ -36,14 +47,7 @@ body {
     }
   }
 
-header {
-    background-color: #212529;
-}
 
-.address {
-    color: white;
-    font-size: 24px;
-}
 
 /* Navbar */
 
