@@ -68,18 +68,24 @@ header {
 }
 
 .navbar-nav {
-  margin-left: 50%;
-}
-
-@media screen and (max-width: 1500px) {
-  .navbar-nav {
-    margin-left: 40%;
-  }
+  margin-left: 45%;
 }
 
 @media screen and (max-width: 1440px) {
   .navbar-nav {
-    margin-left: 36%;
+    margin-left: 35%;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .navbar-nav {
+    margin-left: 30%;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+  .navbar-nav {
+    margin-left: 20%;
   }
 }
 
@@ -89,7 +95,7 @@ header {
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
   .navbar-nav {
     margin-left: 0%;
   }
@@ -99,6 +105,10 @@ header {
   #navlogo {
     display: none;
   }
+}
+
+.nav-link {
+  font-size: 0.89rem;
 }
 
 @media screen and (max-width: 762px) {
