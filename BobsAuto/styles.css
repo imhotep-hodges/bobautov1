@@ -53,6 +53,10 @@ header {
   margin-bottom: auto;
 }
 
+#navlogo {
+  margin-left: 0.5em;
+}
+
 .navbar-brand {
   display: none;
 }
@@ -64,10 +68,28 @@ header {
 }
 
 .navbar-nav {
-  margin-left: 25%;
+  margin-left: 50%;
+}
+
+@media screen and (max-width: 1500px) {
+  .navbar-nav {
+    margin-left: 40%;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .navbar-nav {
+    margin-left: 36%;
+  }
 }
 
 @media screen and (max-width: 762px) {
+  .navbar-nav {
+    margin-left: 0%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
   .navbar-nav {
     margin-left: 0%;
   }
